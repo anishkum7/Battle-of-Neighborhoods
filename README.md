@@ -11,4 +11,4 @@ based on real world datasets obtained from Wikipedia and Geocoder.\
 • Visualised the favourability for immigration using Folium choropleth to give a better intuition.\
 
 The certificate for the capstone can be found here:\
-https://coursera.org/share/b37dc4367ad9c977dc73c7bcb39ce2f4
+https://www.coursera.org/account/accomplishments/certificate/77Z5NFJLF2YB
