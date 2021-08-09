@@ -1,6 +1,6 @@
 # Battle-of-Neighborhoods
 This repository contains the code used to implement the Battle of Neighborhoods problem.\
-It was completed as a part of the IBM Capstone Project on Coursera on August 1, 2020.\
+It was completed as a part of the IBM Capstone Project on Coursera on July 31, 2020.\
 Committed to GitHub on August 9, 2021.\
 The aim of the project is to visualise, process and predict suitable neighorhood environments\
 for immigrants into Scarborough District, Toronto - Canada\
